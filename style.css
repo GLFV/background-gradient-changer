@@ -1,0 +1,29 @@
+body {
+	padding-top: 1%;
+	color: rgba(0, 0, 0, 0.9);
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, #0000ff, #f00000);
+	letter-spacing: 0.5em;
+	font-family: 'Times New Roman', Times, serif;
+	text-shadow: rgba(255, 255, 255, 0.658) 2px 3px 10px;
+}
+h1 {
+	font-size: 40px;
+	color: rgba(0, 0, 0, 0.9);
+}
+h3 {
+	text-transform: lowercase;
+	letter-spacing: 0.1em;
+}
+.btn {
+	border-radius: 5px;
+	color: rgba(255, 255, 255, 0.54);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	border: 2px solid rgba(255, 255, 255, 0.54);
+	cursor: pointer;
+	overflow: hidden;
+	outline: none;
+	box-shadow: 1px 1px 15px 7px rgba(255, 255, 255, 0.54);
+}
